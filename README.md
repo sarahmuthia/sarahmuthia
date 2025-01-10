@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Data Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,figma,mysql,powerbi,tableau,microsoft-excel " /><br>
+    <img src="https://skillicons.dev/icons?i=![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) " /><br>
 </div>
 
 <br/>
