@@ -1,16 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sarahmuthia.sarahmuthia" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarah+Muthia!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=35&center=true&letterSpacing=1%2C5&pause=1000&color=F77189&width=435&lines=Hi+There!+👋;+I'm+Sarah+Muthia!;" />
 </h1>
 
-<h3 align="center">A passionate data enthusiast from Jakarta Indonesia</h3>
+<h3 align="center">A passionate data enthusiast from Jakarta, Indonesia</h3>
 
 <br/>
 
 <div align="center">
+
+ 📊 Research & Data Analyst
+
+ 💡 Skilled in exploratory **data analysis,** and **data visualization**.
  
- 🌱 I’m currently learning **SQL, Tableau, and Power BI**
+ 🔧 Proficient in  **SQL, Tableau, and Power BI**
+
+ 🌱 Currently diving into Python.
+
+ 
 
  </div>
  
@@ -25,7 +33,7 @@
 
  <hr/>
 
- <h2 align="center">🔧Tools I Use:</h2>
+ <h2 align="center">🔧Tools I Use:🔧</h2>
  <br/>
  <div align="center">
     <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
