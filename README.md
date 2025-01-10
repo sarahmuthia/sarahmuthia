@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Data Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,figma,mysql " /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,mysql,powerbi,tableau,microsoft-excel " /><br>
 </div>
 
 <br/>
