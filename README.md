@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/sarah-muthia-rahma-anggraini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 
@@ -28,7 +28,8 @@
 <h2 align="center">⚒️ Data Tools ⚒️</h2>
 <br/>
 <div align="center">
-    ![Power BI](https://img.shields.io/badge/power bi-%23777BB4.svg?style=for-the-badge&logo=powerbi&logoColor=white)"
+    [![Power BI](https://img.shields.io/badge/power bi-%23777BB4.svg?style=for-the-badge&logo=powerbi&logoColor=white)"](https://img.shields.io/badge/Power%20BI-FFFF00?style=for-the-badge&logoColor=black
+)
 </div>
 
 <br/>
