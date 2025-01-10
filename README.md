@@ -15,8 +15,8 @@
  </div>
  
 <div align="center"> 
-  <a href="sarahanggraini02@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" /><br>
+  <a href="mailto:sarahanggraini02@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/sarah-muthia-rahma-anggraini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
