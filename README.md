@@ -24,16 +24,10 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Data Tools ⚒️</h2>
-<br/>
-<div align="center">
-    ![Power BI](https://img.shields.io/badge/Power%20BI-FFFF00?style=for-the-badge
-)
-</div>
 
-<br/>
-<hr/>
+ # 🔧 Tools I Use:
+    ![Figma]([https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=maroon])
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
