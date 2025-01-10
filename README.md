@@ -28,7 +28,8 @@
 <h2 align="center">⚒️ Data Tools ⚒️</h2>
 <br/>
 <div align="center">
-    [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)"] [![Power BI](https://img.shields.io/badge/power bi-%23777BB4.svg?style=for-the-badge&logo=powerbi&logoColor=white)"] 
+    ![Power BI](https://img.shields.io/badge/Power%20BI-FFFF00?style=for-the-badge)
+
 )
 </div>
 
