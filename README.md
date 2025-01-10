@@ -28,8 +28,7 @@
 <h2 align="center">⚒️ Data Tools ⚒️</h2>
 <br/>
 <div align="center">
-    ![Power BI](https://img.shields.io/badge/Power%20BI-FFFF00?style=for-the-badge)
-
+    ![Power BI](https://img.shields.io/badge/Power%20BI-FFFF00?style=for-the-badge
 )
 </div>
 
