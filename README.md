@@ -26,7 +26,8 @@
  <hr/>
 
  # 🔧 Tools I Use:
-    ![Figma]([https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=maroon])
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=maroon)
+    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
 
 <div align="center">
