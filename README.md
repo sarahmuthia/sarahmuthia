@@ -16,7 +16,7 @@
  
 <div align="center"> 
   <a href="sarahanggraini02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=gmail" /><br>
   </a>
   <a href="https://linkedin.com/in/sarah-muthia-rahma-anggraini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Data Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) " /><br>
+    ![Power BI](https://img.shields.io/badge/power bi-%23777BB4.svg?style=for-the-badge&logo=powerbi&logoColor=white)"
 </div>
 
 <br/>
