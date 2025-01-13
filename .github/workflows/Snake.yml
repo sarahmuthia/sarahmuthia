@@ -27,9 +27,8 @@ jobs:
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
       
- # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
+    # Generates the snake  
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sarahmuthia
           outputs:
