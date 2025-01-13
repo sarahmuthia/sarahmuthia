@@ -30,9 +30,10 @@ jobs:
     # Generates the snake  
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sarahmuthia
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+         outputs:
+            dist/github-snake.svg
+            gif_out_path:dist/github-contribution-grid-snake.gif
+            svg_out_path:dist/github-contribution-grid-snake.svg
           
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
